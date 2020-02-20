@@ -1,0 +1,14 @@
+.questionTemplate {
+  position: absolute;
+  display: inline;
+  z-index: 15;
+  top: 50%;
+  left: 50%;
+  margin: -150px 0 0 -400px;
+  
+}
+
+textarea {
+  display: inline-block;
+  vertical-align: middle;
+}
